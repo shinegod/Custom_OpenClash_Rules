@@ -121,3 +121,60 @@ DOMAIN-SUFFIX,bdcat.top
 DOMAIN-SUFFIX,ningtingche.com
 # GUOO 物流
 DOMAIN-SUFFIX,guoocang.com
+  # LOL 专用规则（最高优先级）
+PROCESS-NAME,League of Legends.exe
+PROCESS-NAME,LeagueClient.exe
+PROCESS-NAME,LeagueClientUx.exe
+PROCESS-NAME,LeagueClientUxRender.exe
+PROCESS-NAME,Client.exe
+PROCESS-NAME,WeGameLoader.exe
+
+  # LOL 关键端口（所有相关端口都直连）
+DST-PORT,1119-1120
+DST-PORT,2099
+DST-PORT,5222-5223
+DST-PORT,5000-5500
+DST-PORT,8080-8089
+DST-PORT,8393-8400
+DST-PORT,10001-10094
+DST-PORT,12000-12100
+DST-PORT,20000-20100
+DST-PORT,49152-65535
+
+  # LOL 服务器 IP 段
+IP-CIDR,111.161.64.0/19,no-resolve
+IP-CIDR,182.254.0.0/16,no-resolve
+IP-CIDR,111.161.64.0/24,no-resolve
+IP-CIDR,111.161.65.0/24,no-resolve
+IP-CIDR,111.161.66.0/24,no-resolve
+IP-CIDR,111.161.67.0/24,no-resolve
+IP-CIDR,111.161.68.0/24,no-resolve
+IP-CIDR,111.161.69.0/24,no-resolve
+IP-CIDR,111.161.70.0/24,no-resolve
+IP-CIDR,111.161.71.0/24,no-resolve
+IP-CIDR,119.29.0.0/16,no-resolve
+IP-CIDR,182.254.0.0/16,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,129.226.103.0/24,no-resolve
+IP-CIDR,34.127.0.0/16,no-resolve
+
+  # LOL 域名规则
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wegame.com.cn
+DOMAIN-SUFFIX,wegame.com
+DOMAIN-SUFFIX,riot.com
+DOMAIN-SUFFIX,riot.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotgames.net
+DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN,lol.qq.com
+DOMAIN,client.lol.qq.com
+DOMAIN,game.lol.qq.com
+DOMAIN,apps.game.qq.com
+DOMAIN,qt.qq.com
+DOMAIN,dl.google.com
+DOMAIN-KEYWORD,wegame
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,riot
+DOMAIN-KEYWORD,league
