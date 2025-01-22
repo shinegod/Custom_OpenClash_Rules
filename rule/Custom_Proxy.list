@@ -20,3 +20,127 @@ DOMAIN-SUFFIX,arduino.cc
 DOMAIN-SUFFIX,dmhy.org
 # Google 相关
 DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN-SUFFIX,pikpak.cloud
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5emu.v6.shub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,analytics.google.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,www.google-analytics.com
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+  
+  # YouTube Music
+DOMAIN-SUFFIX,music.youtube.com
+  
+  # YouTube TV
+DOMAIN-SUFFIX,tv.youtube.com
+  
+  # YouTube Kids
+DOMAIN-SUFFIX,youtubekids.com
+  
+  # YouTube Studio
+DOMAIN-SUFFIX,studio.youtube.com
+   # Discord 主域名
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+  
+  # Discord CDN
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.plus
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
+  
+  # Discord 媒体和语音服务
+DOMAIN-SUFFIX,cdn.discordapp.com
+DOMAIN-SUFFIX,media.discordapp.net
+DOMAIN-SUFFIX,images-ext-1.discordapp.net
+DOMAIN-SUFFIX,images-ext-2.discordapp.net
+  
+  # Discord RTC (语音和视频)
+IP-CIDR,66.22.196.0/22
+IP-CIDR,66.22.200.0/21
+IP-CIDR,103.126.137.0/24
+IP-CIDR,103.126.138.0/24
+  
+  # 关键词匹配
+DOMAIN-KEYWORD,discord
+   # Nutaku 主域名
+DOMAIN-SUFFIX,nutaku.net
+DOMAIN-SUFFIX,nutaku.com
+  
+  # Nutaku CDN 和游戏资源
+DOMAIN-SUFFIX,cdn.nutaku.net
+DOMAIN-SUFFIX,assets.nutaku.net
+DOMAIN-SUFFIX,games.nutaku.net
+DOMAIN-SUFFIX,static.nutaku.net
+DOMAIN-SUFFIX,media.nutaku.net
+  
+  # 关键词匹配
+DOMAIN-KEYWORD,nutaku
+   # 主域名
+DOMAIN-SUFFIX,hornyvilla.com
+DOMAIN-SUFFIX,hornyvilla.net
+  
+  # CDN 和媒体资源
+DOMAIN-SUFFIX,cdn.hornyvilla.com
+DOMAIN-SUFFIX,media.hornyvilla.com
+DOMAIN-SUFFIX,static.hornyvilla.com
+DOMAIN-SUFFIX,assets.hornyvilla.com
+  
+  # 关键词匹配
+DOMAIN-KEYWORD,hornyvilla
+   # DigitalOcean Spaces 主域名
+DOMAIN-SUFFIX,digitaloceanspaces.com
+  
+  # 各地区的 Spaces 域名
+DOMAIN-SUFFIX,nyc3.digitaloceanspaces.com
+DOMAIN-SUFFIX,sfo2.digitaloceanspaces.com
+DOMAIN-SUFFIX,sfo3.digitaloceanspaces.com
+DOMAIN-SUFFIX,sgp1.digitaloceanspaces.com
+DOMAIN-SUFFIX,fra1.digitaloceanspaces.com
+DOMAIN-SUFFIX,ams3.digitaloceanspaces.com
+  
+  # CDN 和 API 域名
+DOMAIN-SUFFIX,cdn.digitaloceanspaces.com
+DOMAIN-SUFFIX,api.digitaloceanspaces.com
+  
+  # 关键词匹配
+DOMAIN-KEYWORD,digitaloceanspaces
